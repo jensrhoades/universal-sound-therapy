@@ -14,7 +14,7 @@ draft: false
 
 ### Q – Can I put my headphones over my clothes or do I need to have them directly on skin?
 
-**A** – Direct on skin seems to be the best, but playing the frequencies through a layer of clothing works too. Don't play the frequencies through multiple layers, as it will lose some of its strength.
+**A** – Direct on skin seems to be the best, but playing the frequencies through a layer of clothing works too.  Don't play the frequencies through multiple layers, as it will lose some of its strength.
 
 ### Q – What do you mean when you say I don't have to hear the frequencies for them to be effective?
 
@@ -42,22 +42,22 @@ draft: false
 
 ### Q – How do I know this is working?
 
-**A** – That is a tough question. With something as obvious as Tinnitus (ringing in the ears), the answer is easy. The volume goes down, tones change or it goes away. For issues that are easily measured such as Blood Pressure or Diabetes, you can track your progress the same way you always have. Some issues will be hard to measure. Getting rid of an old injury or a new one, did you heal faster than before and is it going away. Sometimes you can measure it; sometimes it is just a question of, "are you feeling better?"
+**A** – That is a tough question. With something as obvious as Tinnitus (ringing in the ears), the answer is easy. The volume goes down, tones change or it goes away. For issues that are easily measures such as Blood Pressure or Diabetes, you can track your progress the same way you always have. Some issues will be hard to measure. Getting rid of an old injury or a new one, did you heal faster than before and is it going away. Sometimes you can measure it; sometimes it is just a question of, "are you feeling better?"
 
 ### Q – Does Sound Therapy work on pets?
 
-**A** – Yes, it works well on dogs and horses. In fact one of the first test cases was done on a racehorse that had a torn tendon.
+**A** – Yes, it works well on dogs and horses. In fact one of the first test cases was done on a racehorse that had a torn tendon. You can see one of the case studies by going to www.elizabethbauerconsults.com/pdfs/Frac1.pdf. It is very interesting and has x-rays that show how the healing process progressed.
 
 ### Q – Can you work with more than one sound therapy session at a time?
 
-**A** – Yes, we have people that are working on two or three different sessions and rotate them throughout the week, working with a different sound therapy session each day. We also have people that work on two sessions per day. Therapies such as Sciatica, Inflammation, Injuries and Circulation seem to work very well together.
+**A** – Yes, we have people that are working on two or three different sessions and rotate them throughout the week, working with a different sound therapy session each day.  We also have people that work on two sessions per day. Therapies such as Sciatica, Inflammation, Injuries and Circulation seem to work very well together.
 
 ### Q – Can I play the Alignment part in the morning then play the other protocols later in the day when I have more time?
 
-**A** – Yes, you do not need to follow the Alignment segment immediately with another protocol. We have many people that only listen to the Alignment protocol once a week and do the other protocols daily. The beauty is that this is working. Sound is truly a wonderful healing tool that stays with us long after the session is done playing.
+**A** – Yes, you do not need to follow the Alignment segment immediately with another protocol.  We have many people that only listen to the Alignment protocol once a week and do the other protocols daily.  The beauty is that this is working.  Sound is truly a wonderful healing tool that stays with us long after the session is done playing.
 
 ### Q – Some people do not have credit cards, can they still get your sound therapy sessions?
 
-**A** – Yes, we will accept a cashiers check or money order, personal checks take longer because they need to clear the bank first, but you can send your check to us at Universal Sound Therapy, PO Box 158, Verndale, MN 56481.
+**A** –  Yes, we will accept a cashiers check or money order, personal checks take longer because they need to clear the bank first, but you can send your check to us at Universal Sound Therapy, PO Box 158, Verndale, MN  56481.
 
 If you have other questions or want to visit, please give us a call at 218-833-2325.

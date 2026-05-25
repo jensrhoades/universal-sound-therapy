@@ -8,6 +8,8 @@ original_url: "https://universalsoundtherapy.com/money-back-guarantee"
 draft: false
 ---
 
+![guaranteeBadge](https://universalsoundtherapy.com/main/uploads/2013/06/guaranteeBadge.png)
+
 Some people say we're crazy for offering a full 90 day unconditional satisfaction guarantee.
 
 We think it's just how we would want to be treated ourselves if we were in your position.
@@ -18,7 +20,7 @@ We know how it is, you've probably tried a number of different treatments and re
 
 It's frustrating and the idea of losing more money for something else that might not work is scary. That's why we've created our 90 Day Satisfaction Guarantee.
 
-You can try any of our treatment sessions for a full 90 days (which is more than enough time to completely see how it makes you feel) and if it doesn't work, simply contact us at: Universal Sound Therapy, PO Box 158, Verndale, MN 56481.
+You can try any of our treatment sessions for a full 90 days (which is more than enough time to completely see how it makes you feel) and if it doesn't work, simply contact us at:  Universal Sound Therapy, PO Box 158, Verndale, MN  56481.
 
 We are confident that it will work – it's worked for almost everyone that's tried it in the past. But if it doesn't – we don't want your money. We just want you to be healthy, whole, and to feel good again.
 
