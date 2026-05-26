@@ -122,6 +122,8 @@ As mentioned throughout this article, music therapy has been widely used in the 
 
 Overall, music therapy for anxiety can be effective for anyone looking for an alternative form of treatment for their disorder, since it helps patients relax, gain insight into their emotional states, and open up communication pathways. By using different genres and instruments, it creates an environment where one can explore and express their thoughts in an enjoyable way. The use of music allows individuals to develop an improved relationship with themselves and others by building trust and emotional connections.
 
+Debate:
+
 It is also important to note that music therapy may not be suitable for everyone suffering from anxiety. While research has shown that it is a valuable tool to employ in reducing stress and relieving anxiety symptoms, it will not be able to cure the underlying cause(s) of the disorder in some cases. Additionally, those with pre-existing medical conditions should always consult with a healthcare professional before engaging in any form of treatment plan involving music as a component. As with traditional forms of therapy such as cognitive behavioural therapy (CBT), results may vary due to personal preference or cultural influences; what works for one person might not necessarily work for another. Therefore, individuals should be encouraged to pursue any form of mental health treatment that they feel comfortable with—including those which incorporate music if desired—in order to achieve the most effective outcomes from their care plan.
 
 ## Answers to Common Questions

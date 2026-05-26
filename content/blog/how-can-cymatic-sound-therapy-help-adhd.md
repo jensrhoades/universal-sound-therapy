@@ -52,13 +52,13 @@ To better understand how ADHD affects individuals it is important to consider bo
 
 ### Cognitive and Behavioral Impairments
 
-The cognitive and behavioral impairments associated with ADHD present an array of challenges. Studies have shown that individuals with ADHD tend to possess deficits in executive functioning, self-regulation, and social skills. Specifically, difficulties sustaining attention, processing speed, hyperactivity, impulsivity, working memory, and reward sensitivity are common impairments seen amongst those with ADHD.
+The cognitive and behavioral impairments associated with ADHD present an array of challenges. Studies have shown that individuals with ADHD tend to possess deficits in executive functioning, self-regulation, and social skills. Specifically, difficulties sustaining attention, processing speed, hyperactivity, impulsivity, working memory, and reward sensitivity are common impairments seen amongst those with ADHD \[1\].
 
-Given the cognitive and behavioral challenges associated with ADHD, treatment is important to target these deficits. Several studies have looked into the use of cymatic sound therapy as a viable treatment option for children and adults with ADHD. The premise behind this form of therapy is that sound waves can be used to stimulate activity in the brain. Through this stimulation, the theory goes that cognitive and behavioral impairments related to ADHD can be improved.
+Given the cognitive and behavioral challenges associated with ADHD, treatment is important to target these deficits. Several studies have looked into the use of cytomic sound therapy as a viable treatment option for children and adults with ADHD \[2\]. The premise behind this form of therapy is that sound waves can be used to stimulate activity in the brain. Through this stimulation, the theory goes that cognitive and behavioral impairments related to ADHD can be improved.
 
 This form of treatment requires further investigation and research before it can be concluded if it is in fact an effective treatment option for those living with ADHD. Thus far, there are proponents who both support and reject this form of therapy as a legitimate medical treatment for cognitive/behavioral impairments associated with ADHD. Further research is needed to determine what position has more clinical evidence to back it up.
 
-Given its implications for treating various impairments related to ADHD, the impact of cymatic sound therapy on attention and focus warrants further exploration. In the following section we'll discuss the impact that cymatic sound therapy may have on attention and focus in individuals with ADHD.
+Given its implications for treating various impariments related to ADHD, the impact of cytomic sound therapy on attention and focus warrants further exploration. In the following section we'll discuss the impact that cytomic sound therapy may have on attention and focus in individuals with ADHD.
 
 ### Impact on Attention and Focus
 
@@ -68,7 +68,7 @@ On one hand, proponents of Cymatic sound therapy cite a number of research paper
 
 On the other hand, there are also those who dismiss the reported benefits of Cymatic sound therapy, claiming that any improvements may be due to placebo effects rather than reliable therapeutic effects. These experts point out that the case studies conducted so far are simply not rigorous enough to support widespread adoption or recommendation of Cymatic sound therapies as treatments for ADHD. It is also important to note that since most research on this topic has only been conducted with small samples, it is impossible to draw conclusions about any larger general population.
 
-At present, the debate over the use of Cymatic sound therapy as an effective treatment method for ADHD remains ongoing and inconclusive. The current evidence suggests that if used responsibly and under proper supervision, Cymatic sound therapies may indeed redress issues with attention and focus in select cases; however, more substantial and wide-reaching research is necessary before any sweeping changes can be made to traditional ADHD treatments. Leading into our next section about current treatments and strategies for addressing ADHD symptoms with Cymatic sound therapies may be necessary to gain a better understanding about how this unique approach could help those struggling with attention issues.
+At present, the debate over the use of Cymatic sound therapy as an effective treatment method for ADHD remains ongoing and inconclusive. The current evidence suggests that if used responsibly and under proper supervision, Cymatic sound therapies may indeed redress issues with attention and focus in select cases; however, more substantial and wide-reaching research is necessary before any sweeping changes can be made to traditional ADHD treatments.
 
 ## Current Treatments and Strategies
 

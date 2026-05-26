@@ -145,13 +145,3 @@ In addition, some people report behavioral modifications like avoiding stimuli t
 Though no single treatment is guaranteed to work for everyone, many people who suffer from tinnitus note significant improvements in quality of life after trying various remedies or combination of treatments. So overall, these treatments can be highly effective for reducing symptoms of tinnitus.
 
 Next: [How to](https://universalsoundtherapy.com/tinnitus/how-to-cope-with-tinnitus/) [Cope with Tinnitus](https://universalsoundtherapy.com/tinnitus/how-to-cope-with-tinnitus/)
-
-[![](https://universalsoundtherapy.com/main/uploads/2023/02/tst.png)](https://universalsoundtherapy.com/product/tinnitus/)
-
-## 90 Day Complete Satisfaction Guarantee!
-
-![](https://universalsoundtherapy.com/main/uploads/2016/08/widget.jpg)
-
-## Need Help?    Have Questions?
-
-[Contact Us](https://universalsoundtherapy.com/need-help-have-questions/)

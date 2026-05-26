@@ -96,7 +96,7 @@ By understanding who is at risk for experiencing tinnitus, public healthcare pro
 
 ### Age
 
-Age is often cited as a major factor in the development of Tinnitus. Although the condition can affect people of any age, it is much more common among individuals over the age of 40. Research suggests that this may be due to an increased likelihood of age-related hearing loss, which can cause a ringing or buzzing sound in one or both ears. Age-related hearing loss occurs when the tiny hair cells within our inner ear become damaged, leading to impaired auditory perception. The prevalence of Tinnitus also increases with age for other reasons as well. As we age, our bodies become more prone to environmental factors that contribute to Tinnitus such as noise and medications.
+Age is often cited as a major factor in the development of Tinnitus. Although the condition can affect people of any age, it is much more common among individuals over the age of 40. Research suggests that this may be due to an increased likelihood of age-related hearing loss, which can cause a ringing or buzzing sound in one or both ears. Age-related hearing loss occurs when the tiny hair cells within our inner ear become damaged, leading to impaired auditory perception, including The prevalence of Tinnitus also increases with age for other reasons as well. As we age, our bodies become more prone to environmental factors that contribute to Tinnitus such as noise and medications.
 
 The good news is that although the incidence of Tinnitus may increase with age, the majority of cases are treatable. In fact, many cases can be resolved completely or relieved by simple lifestyle modifications and management techniques. For example, increasing dietary intake of certain vitamins and minerals can promote better overall health and reduce the risk of developing Tinnitus.
 
@@ -148,10 +148,10 @@ Lifestyle habits such as smoking, drinking too much alcohol, and exposure to lou
 
 ### Are there any treatments that can help with tinnitus?
 
-Yes, there are several different treatments that may help with tinnitus. Depending on the cause and severity of the condition, lifestyle changes such as wearing ear plugs or custom-made hearing aids; sound therapy; cognitive behavioral therapy; biofeedback; neurofeedback; acupuncture; and nutritional supplements can all be used to reduce tinnitus symptoms. Additionally, some people find relief from surgically implanted devices that can provide sound stimulation. It is important for a person to work closely with their health care provider to determine which treatment options are right for them.
+Yes, there are several different treatments that may help with tinnitus. Depending on the cause and severity of the condition, lifestyle changes such as wearing ear plugs or custom-made hearing aids;  sound therapy; cognitive behavioral therapy; biofeedback; neurofeedback; acupuncture; and nutritional supplements can all be used to reduce tinnitus symptoms. Additionally, some people find relief from surgically implanted devices that can provide sound stimulation. It is important for a person to work closely with their health care provider to determine which treatment options are right for them.
 
 ### What medical conditions can cause tinnitus?
 
 Tinnitus can be caused by a variety of medical conditions, including exposure to loud noises, head or neck injuries, ear infections, stress and anxiety, high blood pressure, meniere's disease, TMJ disorders, neck and jaw misalignment, acoustic neuroma, thyroid imbalances and nutritional deficiencies. Other potential causes include medications such as aspirin, antibiotics and some antidepressants; certain hormones; and underlying cardiovascular issues. Additionally, tinnitus can be associated with aging as the ability to hear decreases over time.
 
-Next: [Common Treatments for Tinnitus](https://universalsoundtherapy.com/tinnitus/common-treatments-for-tinnitus/)
+Next:  [Common Treatments for Tinnitus](https://universalsoundtherapy.com/tinnitus/common-treatments-for-tinnitus/)

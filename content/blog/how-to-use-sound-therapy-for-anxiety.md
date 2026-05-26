@@ -20,7 +20,7 @@ Sound therapy can be used to reduce and manage symptoms of anxiety by calming th
 
 ## What is Sound Therapy?
 
-Sound therapy is a type of non-invasive therapy that uses audible or subliminal sound waves or frequencies to promote emotional health, psychological growth, and physical healing. Sound therapy may be used to reduce stress and anxiety by creating a calming environment or to help with managing sleep disorders by introducing low, calming tones. It can also be used therapeutically in the treatment of many mental and physical conditions, including depression, bipolar disorder, PTSD, and substance abuse. In recent years, sound therapy has become popularly known for its effectiveness in alleviating anxiety.
+Sound therapy is a type of non-invasive therapy that uses audible or subliminal sound waves or frequencies  to promote emotional health, psychological growth, and physical healing. Sound therapy may be used to reduce stress and anxiety by creating a calming environment or to help with managing sleep disorders by introducing low, calming tones. It can also be used therapeutically in the treatment of many mental and physical conditions, including depression, bipolar disorder, PTSD, and substance abuse. In recent years, sound therapy has become popularly known for its effectiveness in alleviating anxiety.
 
 The efficacy of sound therapy has been widely debated. Among skeptics, the idea of using sound waves to help alleviate mental anguish is viewed as dubious at best. Meanwhile, proponents emphasize the robust research that exists supporting the positive effects of sound waves on physical and psychological wellbeing. Although evidence-based studies quantifying the effects of sound therapy remain scanty due to difficulty in measuring its direct impacts on anxiety symptoms, increasing numbers of people are turning to this form of therapeutic intervention daily in search of relief from psychological distress.
 
@@ -66,7 +66,7 @@ Sound therapy has been gaining attention as an effective way to manage anxiety. 
 
 The primary technique employed in sound therapy is the use of headphones or sound systems that offer a range of sounds at different frequencies. These may include nature sounds such as running water, ocean waves, rainforest birdsong, designed frequencies and more. These sounds act as a distraction, allowing the listener to focus on the relaxing tones rather than their worries. Other techniques used in sound therapy include playing a variety of soothing music, using guided meditations, or listening to recordings of affirmations or positive messages.
 
-There is debate about which type of sound therapy is most effective for reducing anxiety – is it Cymatic therapy, instrumental music, natural sounds, or some combination of all? Proponents of instrumental music claim that this type of sound therapy helps to relax muscles and increase blood flow, leading to an overall feeling of relaxation. Supporters of natural sounds argue that these types of recordings draw people closer to nature and provide a sense of grounding and balance. Cymatic therapists claim that their form of therapy works well as a stand alone therapy, but also works well with all other type of therapy. All sides make valid points and the answer most likely lies in choosing whichever method works best for the individual listener.
+There is debate about which type of sound therapy is most effective for reducing anxiety – is it Cymatic therapy, instrumental music, natural sounds, or some combination of all? Proponents of instrumental music claim that this type of sound therapy helps to relax muscles and increase blood flow, leading to an overall feeling of relaxation. Supporters of natural sounds argue that these types of recordings draw people closer to nature and provide a sense of grounding and balance. Cymatic therapists claim that their form of therapy works well as a stand a lone  therapy, but also works well with all other type of therapy.  All sides make valid points and the answer most likely lies in choosing whichever method works best for the individual listener.
 
 Regardless of the technique used, many agree that regularly listening to comforting and peaceful sounds can reduce daily stress levels, symptoms associated with anxiety and insomnia. Ultimately, by tapping into our emotional responses to differing types of sound frequencies, sound therapy encourages us to take control of our physical, mental and emotional health.
 
@@ -100,17 +100,17 @@ Next up we'll discuss helpful exercises that can be used when practicing sound t
 
 ## Helpful Exercises When Using Sound Therapy
 
-Sound therapy is a powerful tool that can be used to manage anxiety by utilizing music to calm the mind. When combined with helpful exercises, sound therapy can be even more beneficial. Exercises such as journaling, visualization, and meditation can help to cope with and release anxieties.
+Sound therapy is a powerful tool that can be used to manage anxiety by utilizing music to calm the mind. When combined with helpful exercises, sound therapy can be even more beneficial. Exercises such as journaling, visualization, and meditation can help to cope with and release anxieties2.
 
-A common exercise to assist in sound therapy for anxiety is journaling. Writing down thoughts or behaviours that result from anxiousness can create a record of progress and help measure success. Some people might find it helpful to draw pictures or diagrams in addition to writing out fears or unpleasant emotions.
+A common exercise to assist in sound therapy for anxiety is journaling. Writing down thoughts or behaviours that result from anxiousness can create a record of progress and help measure success3. Some people might find it helpful to draw pictures or diagrams in addition to writing out fears or unpleasant emotions.
 
-Visualization is another exercise that works well with sound therapy. Visualizing oneself in a safe and comfortable place and imagining taking deep breaths while surrounded by calming music can prove immensely helpful. This practice can strip away anxieties by allowing one's mind to settle into the moment instead of worrying about the future or dwelling on past events.
+Visualization is another exercise that works well with sound therapy. Visualizing oneself in a safe and comfortable place and imagining taking deep breaths while surrounded by calming music can prove immensely helpful4. This practice can strip away anxieties by allowing one's mind to settle into the moment instead of worrying about the future or dwelling on past events.
 
-In addition to journaling and visualization, mindfulness meditation is another effective exercise when using sound therapy. Mindfulness meditation involves focusing one's attention on the present moment, calming both body and mind. Combining this practice with calming sounds helps individuals become aware of their anxious feelings while accepting them without judgment.
+In addition to journaling and visualization, mindfulness meditation is another effective exercise when using sound therapy. Mindfulness meditation involves focusing one's attention on the present moment, calming both body and mind5. Combining this practice with calming sounds helps individuals become aware of their anxious feelings while accepting them without judgment6.
 
-The combination of sound therapy with helpful exercises like journaling, visualizing, and mindfulness meditation can be a powerful tool for managing anxiety. By utilizing these practices in tandem with calming sounds, one can learn how to empathize with their emotions instead of simply trying to forget them. As such, sound therapy has the potential to provide immense relief when faced with worries or fear-inducing scenarios.
+The combination of sound therapy with helpful exercises like journaling, visualizing, and mindfulness meditation can be a powerful tool for managing anxiety7. By utilizing these practices in tandem with calming sounds, one can learn how to empathize with their emotions instead of simply trying to forget them8. As such, sound therapy has the potential to provide immense relief when faced with worries or fear-inducing scenarios9.
 
-Clearly, sound therapy provides various exercises that create learning experiences which open up new doorways away from anxiousness. Therefore, it is important for those struggling with anxiety to keep in mind mindful breathing techniques as part of their journey towards healing and self-growth.
+Clearly, sound therapy provides various exercises that create learning experiences which open up new doorways away from anxiousness10. Therefore, it is important for those struggling with anxiety to keep in mind mindful breathing techniques as part of their journey towards healing and self-growth11. With that being said, this brings us into our next section about mindful breathing and how it helps build resilience through moments of anxiety12.
 
 ### Mindful Breathing
 
@@ -124,9 +124,9 @@ Mindful breathing is an easy way to begin incorporating sound therapy into one's
 
 ### Music Listening
 
-Music listening has been used for quite some time as a method to reduce anxiety and promote relaxation. Music therapy is based on the idea that music can aid in relaxation, mood enhancement, and other beneficial psychological processes. Research has revealed that music listening can have both short-term and long-term effects on reducing anxiety. In one study, participants feeling anxious or depressed reported reduced symptoms of anxiety after listening to pleasant music for just 15 minutes. Additionally, one meta-analysis revealed that music listeners experienced long-lasting decreases in tension, stress, and depression symptoms, as well as higher levels of overall wellbeing.
+Music Listening: music listening has been used for quite some time as a method to reduce anxiety and promote relaxation. Music therapy is based on the idea that music can aid in relaxation, mood enhancement, and other beneficial psychological processes. Research has revealed that music listening can have both short-term and long-term effects on reducing anxiety. In one study, participants feeling anxious or depressed reported reduced symptoms of anxiety after listening to pleasant music for just 15 minutes (1). Additionally, one meta-analysis revealed that music listeners experienced long-lasting decreases in tension, stress, and depression symptoms, as well as higher levels of overall wellbeing (2).
 
-At the same time, some people may find that listening to music can be distracting or agitating. For instance, it is possible for intensively loud or energetic music to exacerbate anxious thoughts rather than alleviate them. Therefore, when choosing a suitable type of music for sound therapy for anxiety relief one should consider their individual preferences and needs. This includes considering factors such as the type of production process used (e.g. instrumental vs. vocal), the speed/tempo of the song, the timing (e.g., duration of play) and the dynamics (e.g., intensity of instruments).
+At the same time, some people may find that listening to music can be distracting or agitating. For instance, it is possible for intensively loud or energetic music to exacerbate anxious thoughts rather than alleviate them (3). Therefore, when choosing a suitable type of music for sound therapy for anxiety relief one should consider their individual preferences and needs. This includes considering factors such as the type of production process used (e.g. instrumental vs. vocal), the speed/tempo of the song, the timing (e.g., duration of play) and the dynamics (e.g., intensity of instruments).
 
 In conclusion, music listening can be an effective way to decrease anxiety and improve mental health when tailored to individual preferences and needs. With careful consideration of these factors, individuals can experiment with different types of music in order to discover which works best for their anxiety levels and coping strategies. Moving forward, meditative activities such as deep breathing may build upon the effects of music listening in further promoting relaxation and calming the mind.
 
@@ -136,7 +136,9 @@ Meditative activity has been found to be an effective way of dealing with anxiet
 
 However, some individuals may find difficulty in engaging in any form of meditative activity for personal reasons. For those who are not accustomed to this kind of mental engagement, beginning mediation activities can be overwhelming due to the long-term nature of establishing a consistent practice. Therefore, it is important to remember that there are no set time limits or milestones associated with successful meditative activities; instead, whatever works best for the individual will aid in reducing anxiety levels over time.
 
-For those looking to use sound therapy paired with meditative activity as a tool against anxiety, consistency is key; the more often this practice is engaged in, the better one's ability to find a sense of peace and clarity within one's life.
+For those looking to use sound therapy paired with meditative activity as a tool against anxiety, consistency is key; the more often this practice is engaged in, the better one's ability to find a sense of peace and clarity within one's life. With that said, let us now take a look at a summary of how to use sound therapy for anxiety and how it is best utilized as part of one's self-care plan.
+
+With this in mind, our next section will explore a summary of how to use sound therapy for anxiety and how it is best utilized as part of one's self-care plan.
 
 ## Summary of How to Use Sound Therapy for Anxiety
 
@@ -148,9 +150,11 @@ Ultimately, the aim of using sound therapy for anxiety is to bring awareness to 
 
 To start using sound therapy for anxiety:
 
-- Begin by finding a piece of calming music or guided meditation on websites such as SoundCloud, Apple Music or explore universalsoundtherapy.com for specific designed protocols.
-- Listen to it every day when you feel overwhelmed by stress or anxious thoughts while focusing on calming visualizations or repeat simple mantras such as "I am safe" or "I am freedom".
-- Increase the length of time spent listening each day until you feel comfortable enough with this practice to eventually incorporate other modalities into your routine (such as deep breathing exercises).
+• Begin by finding a piece of calming music or guided meditation on websites such as SoundCloud, Apple Music or explore universalsoundtherapy.com for specific designed protocols.
+
+• Listen to it every day when you feel overwhelmed by stress or anxious thoughts while focusing on calming visualizations or repeat simple mantras such as "I am safe" or "I am freedom".
+
+• Increase the length of time spent listening each day until you feel comfortable enough with this practice to eventually incorporate other modalities into your routine (such as deep breathing exercises).
 
 Ultimately, the effectiveness of sound therapy for managing anxiety will vary from person to person as everyone responds differently to different stimuli. While some people may find listening to calming music improves their mood immediately, others may need more persistent practices in order for anxiety relief to set in. As with any form of treatment for mental health conditions, it is important to seek professional assistance if necessary before beginning any new treatments or lifestyle changes.
 

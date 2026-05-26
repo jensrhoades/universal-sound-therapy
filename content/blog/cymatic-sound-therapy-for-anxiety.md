@@ -74,9 +74,9 @@ One type of cymatic sound therapy is based on instrumental music. This type work
 
 Another type of cymatic sound therapy is focused on vocal music. This form focuses on singing and chanting in order to create calming sounds that can lead to mental clarity and emotional stability. Singing can be used as a form of meditation and can be used in combination with breathing techniques to further relax and clear the mind. Supporters of this method argue that it helps create feelings of peace and wellbeing while eliminating negative energy from within the body.
 
-A third type of cymatic sound therapy utilizes binaural beats or nature sounds such as ocean waves or rainforest birdsong. These sonic frequencies are designed to mimic the brain's natural rhythms which then result in an altered mental state known as "the zone" or "flow state" where productivity and creativity are heightened. Proponents of this technique argue that it not only reduces anxiety but also aids in overall cognitive functioning and provides an escape from everyday stresses.
+A third type of cymatic sound therapy utilizes binaural beats or nature sounds such as ocean waves or rainforest birdsong. These sonic frequencies are designed to mimic the brain's natural rhythms whichthen result in an altered mental state known as "the zone" or "flow state" where productivity and creativity are heightened. Proponents of this technique argue that it not only reduces anxiety but also aids in overall cognitive functioning and provides an escape from everyday stresses
 
-A fourth type of cymatic sound therapy utilized frequencies developed by a frequency generator and based on the work of Dr. Peter Guy Manners. These frequencies have been designed to target specific parts of the body that deal with the issue of anxiety. This technique relieves stress and anxiety and helps the body heal itself.
+A fourth type of cymatic sound therapy utilized frequencies developed by a frequency generator and based on the work of Dr. Peter Guy Manners.  These frequencies have been designed to target specific parts of the body that deal with the issue of anxiety.  This technique relieves stress and anxiety and helps the body heal itself.
 
 Ultimately, many forms of cymatic sound therapy have been studied by researchers over the years with varied results depending on the individual involved. No one size fits all solution exists but combining different methods may provide unique personalized benefits for each person seeking relief from their anxiety symptoms.
 
@@ -134,7 +134,7 @@ Cymatic therapy, which utilizes sound vibrations to promote healing and regulate
 
 ### What are the risks associated with Cymatic sound therapy?
 
-The risks associated with Cymatic sound therapy are minimal. Some people may be sensitive to loud, intense sounds, so they may experience discomfort or pain if the sound levels are too high or if their ears are especially sensitive. Additionally, it's important to work with a qualified practitioner in order to ensure that the sound levels used are appropriate and safe. It is also possible that Cymatic sound therapy can cause temporary hearing loss or tinnitus in some cases, although this is very rare. Lastly, some individuals may find that the repetitive sounds used in Cymatic therapy can aggravate feelings of anxiety or distress, so caution should be taken when using these therapies for those struggling with mental health issues.
+The risks associated with Cymatic sound therapy are minimal. Some people may be sensitive to loud, intense sounds, so they may experience discomfort or pain if the sound levels are too high or if their ears are especially sensitive. Additionally, it's important to work with a qualified practitioner in order to ensure that the sound levels used are appropriate and safe. It is also possible that Cymatic sound therapy can cause temporary hearing loss or tinnitus in some cases, although this is very rare.Lastly, some individuals may find that the repetitive sounds used in Cymatic therapy can aggravate feelings of anxiety or distress, so caution should be taken when using these therapies for those struggling with mental health issues.
 
 ### How does Cymatic sound therapy actually reduce anxiety?
 
@@ -142,4 +142,4 @@ Cymatic sound therapy is an alternate healing technique that uses acoustic vibra
 
 Research has shown that Cymatic sound therapy can be effective in reducing feelings of anxiety and stress, primarily due to its ability to induce relaxation. The use of low-frequency binaural beats helps slow down our brainwaves, leading to a relaxed state which can help reduce symptoms of anxiety. Additionally, since sound therapy focuses on the body's connection with the environment, it can promote a sense of grounding and calmness. This effect encourages mindfulness, which can lead to an improved ability to manage stress and thus reducing overall levels of anxiety and tension.
 
-Next: [Different Types of Sound Therapy](https://universalsoundtherapy.com/anxiety/different-types-of-sound-therapy/)
+Next:  [Different Types of Sound Therapy](https://universalsoundtherapy.com/anxiety/different-types-of-sound-therapy/)
