@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Endrocrine System Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Endocrine System disorders and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues in..."
-categories: []
+categories:
+  - "Endocrine System"
+  - "Lymphatic System"
+  - "Crohn's Disease"
+  - "Endometriosis"
 original_url: "https://universalsoundtherapy.com/product/endocrine-system"
 draft: false
 ---

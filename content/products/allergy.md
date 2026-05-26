@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Allergy Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Allergies and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including Allergy i..."
-categories: []
+categories:
+  - "Allergy"
+  - "Diabetes"
+  - "Graves Disease"
+  - "Immune System Support"
 original_url: "https://universalsoundtherapy.com/product/allergy"
 draft: false
 ---

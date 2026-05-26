@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Bed Sores Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Bedsores and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including Bedsores w..."
-categories: []
+categories:
+  - "Bed Sores"
+  - "Endometriosis"
+  - "Immune System Support"
+  - "Diabetes"
 original_url: "https://universalsoundtherapy.com/product/bed-sores"
 draft: false
 ---

@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Coronary Artery Disease Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Coronary artery disease and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues inclu..."
-categories: []
+categories:
+  - "Coronary Artery Disease"
+  - "Stress Relief"
+  - "Graves Disease"
+  - "Crohn's Disease"
 original_url: "https://universalsoundtherapy.com/product/coronary-artery-disease"
 draft: false
 ---

@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Hyperhidrosis Sound Therapy | Universal Sound Therapy"
 meta_description: "Category: [All Protocols-Products](https://universalsoundtherapy.com/product-category/all-protocols-products/)"
-categories: []
+categories:
+  - "Hyperhidrosis"
+  - "ADD-ADHD"
+  - "Multiple Sclerosis"
+  - "Back Pain"
 original_url: "https://universalsoundtherapy.com/product/hyperhidrosis"
 draft: false
 ---

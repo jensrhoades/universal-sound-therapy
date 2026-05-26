@@ -5,7 +5,10 @@ price: 47
 type: "product"
 meta_title: "Custom Order | Universal Sound Therapy"
 meta_description: "If you do not find sound therapy for the problem you are trying to solve we can make one specifically for your ailment. Purchase this product below and durin..."
-categories: []
+categories:
+  - "Acne"
+  - "Graves Disease"
+  - "Fibromyalgia"
 original_url: "https://universalsoundtherapy.com/product/custom-order"
 draft: false
 ---

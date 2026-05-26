@@ -5,7 +5,10 @@ price: 47
 type: "product"
 meta_title: "Immune System Boost Sound Therapy | Universal Sound Therapy"
 meta_description: "There are no reviews yet."
-categories: []
+categories:
+  - "Chronic Fatigue"
+  - "Anxiety"
+  - "Lymphatic System"
 original_url: "https://universalsoundtherapy.com/product/immune-system-boost"
 draft: false
 ---

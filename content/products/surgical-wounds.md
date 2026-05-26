@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Surgical Wounds Sound Therapy Universal Sound Therapy | Universal Sound Therapy"
 meta_description: "Category: [All Protocols-Products](https://universalsoundtherapy.com/product-category/all-protocols-products/)"
-categories: []
+categories:
+  - "Surgical Wounds"
+  - "Electromagnetic Sensitivity"
+  - "Tension Headache"
+  - "Depression"
 original_url: "https://universalsoundtherapy.com/product/surgical-wounds"
 draft: false
 ---

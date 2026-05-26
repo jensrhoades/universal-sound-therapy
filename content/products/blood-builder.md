@@ -5,7 +5,10 @@ price: 47
 type: "product"
 meta_title: "Blood Builder Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from blood disorders and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including blo..."
-categories: []
+categories:
+  - "Bipolar Disorder"
+  - "Lymphatic System"
+  - "Acne"
 original_url: "https://universalsoundtherapy.com/product/blood-builder"
 draft: false
 ---

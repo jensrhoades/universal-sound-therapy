@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Periodontal Disease Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from periodontal disease and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including..."
-categories: []
+categories:
+  - "Periodontal Disease"
+  - "Psoriasis"
+  - "Lymphatic System"
+  - "ADD-ADHD"
 original_url: "https://universalsoundtherapy.com/product/periodontal-disease"
 draft: false
 ---
