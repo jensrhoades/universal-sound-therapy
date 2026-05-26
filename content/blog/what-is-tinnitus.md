@@ -136,14 +136,3 @@ Tinnitus is a noise or ringing in the ears that can be caused by many factors. T
 
 The exact cause of tinnitus is often difficult to determine and can vary from person to person. In some cases, there might not be a single cause and it may result from a combination of different factors. That's why it's important to consult with your doctor if you are experiencing any type of tinnitus symptoms so they can help identify the underlying cause and provide appropriate treatments.
 
-Next: [Causes and Risk Factors of Tinnitus](https://universalsoundtherapy.com/tinnitus/causes-and-risk-factors-of-tinnitus/)
-
-[![](https://universalsoundtherapy.com/main/uploads/2023/02/tst.png)](https://universalsoundtherapy.com/product/tinnitus/)
-
-## 90 Day Complete Satisfaction Guarantee!
-
-![](https://universalsoundtherapy.com/main/uploads/2016/08/widget.jpg)
-
-## Need Help?    Have Questions?
-
-[Contact Us](https://universalsoundtherapy.com/need-help-have-questions/)
