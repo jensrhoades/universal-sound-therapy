@@ -5,7 +5,10 @@ price: 47
 type: "product"
 meta_title: "Diabetic Coma Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Diabetic Coma and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including Diabe..."
-categories: []
+categories:
+  - "Post Traumatic Stress Disorder (PTSD)"
+  - "Graves Disease"
+  - "Lymphatic System"
 original_url: "https://universalsoundtherapy.com/product/diabetic-coma"
 draft: false
 ---

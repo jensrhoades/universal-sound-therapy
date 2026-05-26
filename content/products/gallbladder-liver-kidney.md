@@ -5,7 +5,10 @@ price: 47
 type: "product"
 meta_title: "Gallbladder, Liver & Kidney Sound Therapy| Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from gallbladder, liver & kidney problems and associated symptoms? At Universal Sound Therapy we deal with all sorts of..."
-categories: []
+categories:
+  - "Lymphatic System"
+  - "Multiple Sclerosis"
+  - "ADD-ADHD"
 original_url: "https://universalsoundtherapy.com/product/gallbladder-liver-kidney"
 draft: false
 ---

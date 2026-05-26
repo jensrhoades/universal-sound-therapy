@@ -6,8 +6,7 @@ type: "product"
 meta_title: "Low Blood Pressure Sound Therapy | Universal Sound Therapy"
 meta_description: "This Universal Sound Therapy Protocol is designed to help your body overcome Low Blood Pressure."
 categories:
-  - "Heart"
-  - "Lung and Blood"
+  - "Heart, Lung and Blood"
 original_url: "https://universalsoundtherapy.com/product/low-blood-pressure"
 draft: false
 ---

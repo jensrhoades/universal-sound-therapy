@@ -6,8 +6,7 @@ type: "product"
 meta_title: "Peripheral Artery Disease – PAD Sound Therapy | Universal Sound Therapy"
 meta_description: "This Universal Sound Therapy Healing Session was specifically designed to help you overcome P.A.D. – Peripheral Artery Disease."
 categories:
-  - "Heart"
-  - "Lung and Blood"
+  - "Heart, Lung and Blood"
   - "Respiratory"
 original_url: "https://universalsoundtherapy.com/product/peripheral-artery-disease-pad"
 draft: false

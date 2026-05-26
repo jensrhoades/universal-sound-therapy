@@ -6,8 +6,7 @@ type: "product"
 meta_title: "Angina Sound Therapy | Universal Sound Therapy"
 meta_description: "This Universal Sound Therapy Protocol was designed to help your body overcome Angina."
 categories:
-  - "Heart"
-  - "Lung and Blood"
+  - "Heart, Lung and Blood"
 original_url: "https://universalsoundtherapy.com/product/angina"
 draft: false
 ---

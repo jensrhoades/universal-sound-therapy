@@ -14,7 +14,6 @@ draft: false
 
 # Vertigo
 
-Do you suffer with Vertigo? Try our Universal Sound Therapy Healing CD on Vertigo and help your body return to good health.
-
+Do you suffer with Vertigo? Try our Universal Sound Therapy protocol on Vertigo and help your body return to good health.
 
 ## Description

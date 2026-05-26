@@ -5,7 +5,8 @@ price: 47
 type: "product"
 meta_title: "Perineural Cysts Sound Therapy | Universal Sound Therapy"
 meta_description: "Category: [All Protocols-Products](https://universalsoundtherapy.com/product-category/all-protocols-products/)"
-categories: []
+categories:
+  - "Perineural Cysts"
 original_url: "https://universalsoundtherapy.com/product/perineural-cysts"
 draft: false
 ---

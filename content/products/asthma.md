@@ -6,8 +6,7 @@ type: "product"
 meta_title: "Asthma Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Asthma and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including Asthma with ..."
 categories:
-  - "Heart"
-  - "Lung and Blood"
+  - "Heart, Lung and Blood"
   - "Respiratory"
 original_url: "https://universalsoundtherapy.com/product/asthma"
 draft: false

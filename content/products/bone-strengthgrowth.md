@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Bone Strength/Growth Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from bone spurs and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including bone spu..."
-categories: []
+categories:
+  - "Bone Strength/Growth"
+  - "Depression"
+  - "Stress Relief"
+  - "Psoriasis"
 original_url: "https://universalsoundtherapy.com/product/bone-strengthgrowth"
 draft: false
 ---

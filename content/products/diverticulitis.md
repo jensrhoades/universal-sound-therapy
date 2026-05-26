@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Diverticulitis Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Diverticulitis and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues including dive..."
-categories: []
+categories:
+  - "Diverticulitis"
+  - "Psoriasis"
+  - "Back Pain"
+  - "Lymphatic System"
 original_url: "https://universalsoundtherapy.com/product/diverticulitis"
 draft: false
 ---

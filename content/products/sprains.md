@@ -5,7 +5,11 @@ price: 47
 type: "product"
 meta_title: "Sprains Sound Therapy | Universal Sound Therapy"
 meta_description: "Category: [All Protocols-Products](https://universalsoundtherapy.com/product-category/all-protocols-products/)"
-categories: []
+categories:
+  - "Sprains"
+  - "Endometriosis"
+  - "Psoriasis"
+  - "Emotional Stress"
 original_url: "https://universalsoundtherapy.com/product/sprains"
 draft: false
 ---

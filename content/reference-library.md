@@ -8,6 +8,10 @@ original_url: "https://universalsoundtherapy.com/reference-library"
 draft: false
 ---
 
-- [Anxiety](https://universalsoundtherapy.com/anxiety/)
-- [Tinnitus](https://universalsoundtherapy.com/tinnitus/)
-- [ADHD](https://universalsoundtherapy.com/adhd/)
+# Reference Library
+
+[Anxiety](https://universalsoundtherapy.com/anxiety/)
+
+[Tinnitus](https://universalsoundtherapy.com/tinnitus/)
+
+[ADHD](https://universalsoundtherapy.com/adhd/)

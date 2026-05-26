@@ -1,7 +1,7 @@
 ---
 title: "Headphones"
 slug: "headphones"
-price: 47
+price: 19
 type: "product"
 meta_title: "Headphones | Universal Sound Therapy"
 meta_description: "These are Sony Headphones. Cost is $19.00 plus $11.35 for shipping."

@@ -5,7 +5,10 @@ price: 47
 type: "product"
 meta_title: "Sensory Processing Disorder Sound Therapy | Universal Sound Therapy"
 meta_description: "Are you or someone you love suffering from Sensory Processing Disorder and associated symptoms? At Universal Sound Therapy we deal with all sorts of issues i..."
-categories: []
+categories:
+  - "Multiple Sclerosis"
+  - "ADD-ADHD"
+  - "Tension Headache"
 original_url: "https://universalsoundtherapy.com/product/sensory-processing-disorder"
 draft: false
 ---
