@@ -16,5 +16,4 @@ draft: false
 
 This Universal Sound Therapy Protocol has been designed to help your body overcome Lung problems.
 
-
 ## Description

@@ -14,3 +14,5 @@ draft: false
 # Teeth General
 
 This Universal Sound Therapy Protocol was designed to help you overcome dental issues.
+
+## Description

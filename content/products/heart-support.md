@@ -6,8 +6,7 @@ type: "product"
 meta_title: "Heart Support Sound Therapy | Universal Sound Therapy"
 meta_description: "This Universal Sound Therapy Healing Session was designed specifically to help your body heal itself from problems with your heart."
 categories:
-  - "Heart"
-  - "Lung and Blood"
+  - "Heart, Lung and Blood"
 original_url: "https://universalsoundtherapy.com/product/heart-support"
 draft: false
 ---

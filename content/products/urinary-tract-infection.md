@@ -4,7 +4,7 @@ slug: "urinary-tract-infection"
 price: 47
 type: "product"
 meta_title: "Urinary Tract Infection | Universal Sound Therapy"
-meta_description: "Category: [All Protocols-Products](https://universalsoundtherapy.com/product-category/all-protocols-products/)"
+meta_description: "At Universal Sound Therapy, we can help with your Urinary Tract Infection. Check out the benefits of our UTI sound therapy protocol and our money-back guarantee."
 categories:
   - "Post Traumatic Stress Disorder (PTSD)"
   - "Endometriosis"
@@ -15,7 +15,6 @@ draft: false
 
 # Urinary Tract Infection
 
-Urinary Tract Infection quantity
-
+This Universal Sound Therapy protocol was designed to help your body overcome Urinary Tract Infection.
 
 ## Description
