@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="page-hero">
+  <div class="container">
+    <h1 class="page-hero__title">{{ .Title }}</h1>
+  </div>
+</div>
+<div class="container prose-page">
+  <article class="prose{{ if eq .Slug "testimonials" }} prose--testimonials{{ end }}">
+    {{ .Content }}
+  </article>
+</div>
+{{ end }}

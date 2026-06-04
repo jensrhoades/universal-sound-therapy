@@ -1,0 +1,70 @@
+{{ define "main" }}
+
+<section class="hero">
+  <div class="container hero__inner">
+    <h1 class="hero__title">Sound therapy protocols for over 150 conditions</h1>
+    <p class="hero__desc">{{ .Site.Params.description }}</p>
+    <div class="hero__buttons">
+      <a href="/products/" class="btn btn--gold">Browse protocols</a>
+      <a href="/about-sound-therapy/" class="btn btn--outline-teal">How it works</a>
+    </div>
+  </div>
+</section>
+
+<section class="ordering-banner">
+  <div class="container ordering-banner__inner">
+    <svg class="icon icon--lg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.8a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .84h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 8.91a16 16 0 006 6l1.23-1.23a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+    <div>
+      <strong>Order by phone or email:</strong>
+      <a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a> or
+      <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="popular-protocols">
+  <div class="container">
+    <h2 class="section-title">Popular protocols</h2>
+    <p class="section-subtitle">Our most requested sound therapy sessions</p>
+    <div class="product-grid product-grid--4">
+      {{ $products := first 4 (where .Site.RegularPages "Section" "products") }}
+      {{ range $products }}
+        {{ partial "product-card.html" . }}
+      {{ end }}
+    </div>
+    <div class="section-cta">
+      <a href="/products/" class="btn btn--teal">View all 152 protocols</a>
+    </div>
+  </div>
+</section>
+
+<section class="trust-section">
+  <div class="container trust-section__inner">
+    <div class="guarantee-card">
+      <div class="guarantee-card__icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      </div>
+      <h2 class="guarantee-card__title">{{ .Site.Params.guarantee_days }}-Day Money-Back Guarantee</h2>
+      <p class="guarantee-card__text">We are so confident our protocols will work for you that every purchase comes with a full {{ .Site.Params.guarantee_days }}-day money-back guarantee. No questions asked.</p>
+      <a href="/money-back-guarantee/" class="btn btn--gold">Learn about our guarantee</a>
+    </div>
+    <div class="featured-review">
+      <h2 class="featured-review__title">What our customers say</h2>
+      <blockquote class="testimonial-quote">
+        <p>"Now only 4 weeks later, my noises are almost completely gone most all of the time. I think it would be sad and unfortunate for all tinnitus sufferers to overlook at least trying this invaluable and risk-free sound therapy."</p>
+        <footer>David G., MD, New York</footer>
+      </blockquote>
+      <a href="/testimonials/" class="btn btn--outline-teal">Read all testimonials</a>
+    </div>
+  </div>
+</section>
+
+{{ with .Content }}
+<section class="home-content">
+  <div class="container prose">
+    {{ . }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="page-hero">
+  <div class="container">
+    <h1 class="page-hero__title">{{ .Title }}</h1>
+  </div>
+</div>
+<div class="container prose-page">
+  {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+  <div class="product-grid">
+    {{ range .Pages }}
+    <article class="list-card">
+      <h2 class="list-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ with .Params.meta_description }}<p class="list-card__desc">{{ . }}</p>{{ end }}
+      <a href="{{ .RelPermalink }}" class="btn btn--teal btn--sm">Read more</a>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

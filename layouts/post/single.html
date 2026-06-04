@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="blog-page">
+  <div class="container">
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span class="breadcrumb__sep">/</span>
+      <a href="/blog/">Blog</a>
+      <span class="breadcrumb__sep">/</span>
+      <span aria-current="page">{{ .Title }}</span>
+    </nav>
+
+    <article class="blog-article">
+      <header class="blog-article__header">
+        <h1 class="blog-article__title">{{ .Title }}</h1>
+        {{ with .Params.meta_description }}
+        <p class="blog-article__intro">{{ . }}</p>
+        {{ end }}
+      </header>
+      <div class="prose">
+        {{ .Content }}
+      </div>
+      <footer class="blog-article__footer">
+        <div class="blog-cta">
+          <p class="blog-cta__text">Explore our sound therapy protocols and start your healing journey today.</p>
+          <a href="/products/" class="btn btn--gold">Browse all protocols</a>
+        </div>
+      </footer>
+    </article>
+
+  </div>
+</div>
+{{ end }}

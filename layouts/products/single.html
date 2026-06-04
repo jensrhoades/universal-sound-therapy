@@ -1,0 +1,93 @@
+{{ define "main" }}
+<div class="product-page">
+  <div class="container">
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span class="breadcrumb__sep">/</span>
+      <a href="/products/">Products</a>
+      {{ with index .Params.categories 0 }}
+      <span class="breadcrumb__sep">/</span>
+      <span>{{ . }}</span>
+      {{ end }}
+      <span class="breadcrumb__sep">/</span>
+      <span aria-current="page">{{ .Title }}</span>
+    </nav>
+
+    <div class="product-layout">
+
+      <div class="product-main">
+        <h1 class="product-title">{{ .Title }} sound therapy</h1>
+        {{ if .Params.categories }}
+        <div class="product-cats">
+          {{ range .Params.categories }}
+          <span class="cat-pill">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+        <div class="prose">
+          {{ .Content }}
+        </div>
+      </div>
+
+      <aside class="product-sidebar">
+        <div class="sidebar-price-card">
+          {{ with .Params.price }}
+          <div class="sidebar-price">${{ . }}</div>
+          {{ end }}
+          <p class="sidebar-format">MP3 download, use at home</p>
+          {{ if .Params.checkout_url }}
+            <a href="{{ .Params.checkout_url }}" class="btn btn--gold btn--full">Buy now</a>
+          {{ else }}
+            <a href="tel:{{ .Site.Params.phone }}" class="btn btn--gold btn--full">Call to order</a>
+            <p class="sidebar-phone"><a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a></p>
+            <p class="sidebar-email"><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+          {{ end }}
+          <p class="sidebar-guarantee">Covered by our {{ .Site.Params.guarantee_days }}-day money-back guarantee</p>
+        </div>
+
+        <div class="sidebar-guarantee-card">
+          <div class="sidebar-guarantee-card__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <p class="sidebar-guarantee-card__title">Risk-free purchase</p>
+          <p class="sidebar-guarantee-card__text">Try it for {{ .Site.Params.guarantee_days }} days. If you are not completely satisfied, return it for a full refund. No questions asked.</p>
+          <a href="/money-back-guarantee/" class="sidebar-guarantee-card__link">Learn more about our guarantee</a>
+        </div>
+      </aside>
+
+    </div>
+
+    <div class="product-bottom">
+      <div class="product-testimonial-strip">
+        <h2 class="product-testimonial-strip__title">What our customers experience</h2>
+        <div class="testimonial-grid">
+          <blockquote class="testimonial-quote">
+            <p>"I am so thankful to have been recommended this. I now am starting to know what it feels like to live free of this condition on a daily basis. Highly, highly recommended."</p>
+            <footer>Universal Sound Therapy customer</footer>
+          </blockquote>
+          <blockquote class="testimonial-quote">
+            <p>"After seeing it work over and over again in our lives and in the lives of those we love, our skepticism has been replaced by belief and a strong desire to get this into the hands of as many people as possible."</p>
+            <footer>Universal Sound Therapy customer</footer>
+          </blockquote>
+        </div>
+        <a href="/testimonials/" class="btn btn--outline-teal">Read all testimonials</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="cta-band">
+  <div class="container cta-band__inner">
+    <p class="cta-band__text">Ready to try {{ .Title }} sound therapy?</p>
+    {{ if .Params.checkout_url }}
+      <a href="{{ .Params.checkout_url }}" class="btn btn--navy">Buy now</a>
+    {{ else }}
+      <a href="tel:{{ .Site.Params.phone }}" class="btn btn--navy">Call {{ .Site.Params.phone }}</a>
+      <a href="mailto:{{ .Site.Params.email }}" class="btn btn--navy">Email us</a>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

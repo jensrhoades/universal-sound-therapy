@@ -1,0 +1,30 @@
+<div class="product-card{{ if .Params.featured }} product-card--featured{{ end }}"
+  data-title="{{ lower .Title }}"
+  data-description="{{ lower .Params.meta_description }}"
+  data-categories="{{ delimit .Params.categories "|" }}">
+  {{ if .Params.featured }}<span class="product-card__badge">Popular</span>{{ end }}
+  <div class="product-card__icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+      <path d="M9 18V5l12-2v13"/>
+      <circle cx="6" cy="18" r="3"/>
+      <circle cx="18" cy="16" r="3"/>
+    </svg>
+  </div>
+  <div class="product-card__body">
+    <h3 class="product-card__title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+    {{ if .Params.categories }}
+    <div class="product-card__cats">
+      {{ range first 2 .Params.categories }}
+      <span class="cat-pill">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+    <p class="product-card__desc">{{ .Params.meta_description | truncate 90 }}</p>
+    <div class="product-card__footer">
+      {{ with .Params.price }}<span class="product-card__price">${{ . }}</span>{{ end }}
+      <a href="{{ .RelPermalink }}" class="btn btn--teal btn--sm">Learn more</a>
+    </div>
+  </div>
+</div>

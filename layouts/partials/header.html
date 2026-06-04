@@ -1,0 +1,42 @@
+<div class="top-bar">
+  <div class="container top-bar__inner">
+    <div class="top-bar__left">
+      <a class="contact-item" href="tel:{{ .Site.Params.phone }}">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.8a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .84h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 8.91a16 16 0 006 6l1.23-1.23a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+        {{ .Site.Params.phone }}
+      </a>
+      <a class="contact-item" href="mailto:{{ .Site.Params.email }}">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+        {{ .Site.Params.email }}
+      </a>
+    </div>
+    <div class="top-bar__right">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 18v-6a9 9 0 0118 0v6"/><path d="M21 19a2 2 0 01-2 2h-1a2 2 0 01-2-2v-3a2 2 0 012-2h3zM3 19a2 2 0 002 2h1a2 2 0 002-2v-3a2 2 0 00-2-2H3z"/></svg>
+      {{ .Site.Params.cta_text }}
+    </div>
+  </div>
+</div>
+
+<header class="main-header">
+  <div class="container main-header__inner">
+    <a href="/" class="brand-link">
+      <img src="/images/logo.png" alt="{{ .Site.Title }}" class="brand-logo" onerror="this.style.display='none'">
+      <div class="brand-text">
+        <span class="brand-name">{{ .Site.Title }}</span>
+        <span class="brand-tagline">{{ .Site.Params.tagline }}</span>
+      </div>
+    </a>
+    <nav class="main-nav" id="main-nav">
+      <a href="/products/" class="nav-link">Products</a>
+      <a href="/about-us/" class="nav-link">About</a>
+      <a href="/testimonials/" class="nav-link">Testimonials</a>
+      <a href="/faq/" class="nav-link">FAQ</a>
+      <a href="/need-help-have-questions/" class="nav-link">Contact</a>
+    </nav>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span class="hamburger__bar"></span>
+      <span class="hamburger__bar"></span>
+      <span class="hamburger__bar"></span>
+    </button>
+  </div>
+</header>

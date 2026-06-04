@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<div class="products-hero">
+  <div class="container products-hero__inner">
+    <h1 class="products-hero__title">Sound therapy protocols</h1>
+    <p class="products-hero__subtitle">{{ len .Pages }} protocols available. Every purchase backed by our {{ .Site.Params.guarantee_days }}-day money-back guarantee.</p>
+  </div>
+</div>
+
+<div class="products-browse">
+  <div class="container">
+
+    <div class="products-controls">
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input
+          type="search"
+          id="product-search"
+          class="search-input"
+          placeholder="Search protocols..."
+          aria-label="Search protocols">
+      </div>
+    </div>
+
+    <div class="category-filters" id="category-filters" role="group" aria-label="Filter by category">
+      <button class="category-filter-pill category-filter-pill--active" data-category="all">All</button>
+      {{ $allCats := slice }}
+      {{ range .Pages }}
+        {{ range .Params.categories }}
+          {{ $allCats = $allCats | append . }}
+        {{ end }}
+      {{ end }}
+      {{ $allCats = $allCats | uniq | sort }}
+      {{ range $allCats }}
+      <button class="category-filter-pill" data-category="{{ . }}">{{ . }}</button>
+      {{ end }}
+    </div>
+
+    <p class="products-count" id="products-count">Showing <span id="visible-count">{{ len .Pages }}</span> of {{ len .Pages }} protocols</p>
+
+    <div class="product-grid product-grid--3" id="product-grid">
+      {{ range .Pages }}
+        {{ partial "product-card.html" . }}
+      {{ end }}
+    </div>
+
+    <p class="no-results" id="no-results" style="display:none;">No protocols match your search. Try a different term or <button class="link-btn" id="reset-filters">clear all filters</button>.</p>
+
+  </div>
+</div>
+
+{{ end }}

@@ -1,0 +1,50 @@
+<div class="cta-banner">
+  <div class="container cta-banner__inner">
+    <p class="cta-banner__text">Ready to start your healing journey? Call <strong>{{ .Site.Params.phone }}</strong> or email <strong>{{ .Site.Params.email }}</strong></p>
+    <a href="/products/" class="btn btn--navy">Browse all protocols</a>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="footer-col footer-col--brand">
+      <p class="footer-brand">{{ .Site.Title }}</p>
+      <p class="footer-address">{{ .Site.Params.address }}</p>
+      <a class="footer-contact" href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a>
+      <a class="footer-contact" href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+    </div>
+    <div class="footer-col">
+      <p class="footer-col__heading">Shop</p>
+      <ul class="footer-links">
+        <li><a href="/products/">All Protocols</a></li>
+        <li><a href="/products/tinnitus/">Tinnitus</a></li>
+        <li><a href="/products/anxiety/">Anxiety</a></li>
+        <li><a href="/products/inflammation/">Inflammation</a></li>
+        <li><a href="/products/immune-system-boost/">Immune System Boost</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <p class="footer-col__heading">Learn</p>
+      <ul class="footer-links">
+        <li><a href="/about-sound-therapy/">About Sound Therapy</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/about-us/">About Us</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <p class="footer-col__heading">Trust</p>
+      <ul class="footer-links">
+        <li><a href="/testimonials/">Testimonials</a></li>
+        <li><a href="/money-back-guarantee/">{{ .Site.Params.guarantee_days }}-Day Guarantee</a></li>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/need-help-have-questions/">Contact Us</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved. Every protocol backed by our {{ .Site.Params.guarantee_days }}-day money-back guarantee.</p>
+    </div>
+  </div>
+</footer>
