@@ -709,7 +709,7 @@ h2 { font-size: 18px; }
 }
 .blog-cta__text { color: var(--teal-dark); font-weight: 500; margin: 0; }
 
-.blog-list-page { padding: 32px 0 48px; }
+.blog-list-page { padding-top: 32px; padding-bottom: 48px; max-width: 1208px; }
 .blog-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
 .blog-card {
   background: var(--card-bg);
@@ -774,7 +774,7 @@ h2 { font-size: 18px; }
   box-shadow: var(--shadow);
 }
 
-.prose-page { padding: 32px 0 48px; max-width: 800px; }
+.prose-page { padding-top: 32px; padding-bottom: 48px; max-width: 848px; }
 
 /* ============================================================
    Site footer
