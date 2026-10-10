@@ -4,7 +4,7 @@ slug: "sprains"
 price: 47
 type: "product"
 meta_title: "Sprains Sound Therapy | Universal Sound Therapy"
-meta_description: "Category: [All Protocols-Products](https://universalsoundtherapy.com/product-category/all-protocols-products/)"
+meta_description: "This Universal Sound Therapy Protocol was designed to assist your body overcome Sprains."
 categories:
   - "Sprains"
   - "Endometriosis"
