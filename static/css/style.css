@@ -323,8 +323,8 @@ h2 { font-size: 18px; }
   display: grid;
   gap: 20px;
 }
-.product-grid--3 { grid-template-columns: repeat(3, 1fr); }
-.product-grid--4 { grid-template-columns: repeat(4, 1fr); }
+.product-grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.product-grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 
 /* ============================================================
    Product card
@@ -420,7 +420,6 @@ h2 { font-size: 18px; }
   font-weight: 600;
   padding: 2px 8px;
   border-radius: 20px;
-  white-space: nowrap;
 }
 
 /* ============================================================
@@ -710,7 +709,7 @@ h2 { font-size: 18px; }
 }
 .blog-cta__text { color: var(--teal-dark); font-weight: 500; margin: 0; }
 
-.blog-list-page { padding: 32px 0 48px; }
+.blog-list-page { padding-top: 32px; padding-bottom: 48px; max-width: 1208px; }
 .blog-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
 .blog-card {
   background: var(--card-bg);
@@ -753,7 +752,7 @@ h2 { font-size: 18px; }
 .prose p { margin-bottom: 1em; }
 .prose ul, .prose ol { padding-left: 24px; margin-bottom: 1em; }
 .prose li { margin-bottom: 4px; }
-.prose a { color: var(--teal-medium); }
+.prose a { color: var(--teal-medium); overflow-wrap: anywhere; }
 .prose a:hover { text-decoration: underline; }
 .prose strong { color: var(--heading); }
 .prose blockquote {
@@ -775,7 +774,7 @@ h2 { font-size: 18px; }
   box-shadow: var(--shadow);
 }
 
-.prose-page { padding: 32px 0 48px; max-width: 800px; }
+.prose-page { padding-top: 32px; padding-bottom: 48px; max-width: 848px; }
 
 /* ============================================================
    Site footer
@@ -837,9 +836,8 @@ h2 { font-size: 18px; }
 /* ============================================================
    Responsive: tablet (max 768px)
    ============================================================ */
-@media (max-width: 768px) {
-  .top-bar__right { display: none; }
-
+@media (max-width: 820px) {
+  /* Desktop nav stops fitting beside the brand below ~805px */
   .hamburger { display: flex; }
 
   .main-nav {
@@ -860,12 +858,16 @@ h2 { font-size: 18px; }
   .main-header__inner { position: relative; }
 
   .nav-link { padding: 10px 12px; border-radius: 4px; }
+}
+
+@media (max-width: 768px) {
+  .top-bar__right { display: none; }
 
   .hero { padding: 40px 0; }
   .hero__title { font-size: 22px; }
 
-  .product-grid--3 { grid-template-columns: repeat(2, 1fr); }
-  .product-grid--4 { grid-template-columns: repeat(2, 1fr); }
+  .product-grid--3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .product-grid--4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 
   .trust-section__inner { grid-template-columns: 1fr; }
   .testimonial-grid { grid-template-columns: 1fr; }
@@ -889,6 +891,15 @@ h2 { font-size: 18px; }
 @media (max-width: 480px) {
   .top-bar { display: none; }
 
+  /* The logo already carries the name, so drop the text to fit the hamburger */
+  .brand-text { display: none; }
+  .main-header__inner { gap: 16px; }
+  .hamburger {
+    min-width: 44px;
+    min-height: 44px;
+    align-items: center;
+  }
+
   h1 { font-size: 22px; }
 
   .hero { padding: 32px 0; }
@@ -896,7 +907,7 @@ h2 { font-size: 18px; }
   .hero__buttons { flex-direction: column; align-items: flex-start; }
 
   .product-grid--3,
-  .product-grid--4 { grid-template-columns: 1fr; }
+  .product-grid--4 { grid-template-columns: minmax(0, 1fr); }
 
   .site-footer__inner { grid-template-columns: 1fr; }
 

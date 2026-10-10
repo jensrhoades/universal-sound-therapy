@@ -4,7 +4,7 @@ slug: "surgical-wounds"
 price: 47
 type: "product"
 meta_title: "Surgical Wounds Sound Therapy Universal Sound Therapy | Universal Sound Therapy"
-meta_description: "Category: [All Protocols-Products](https://universalsoundtherapy.com/product-category/all-protocols-products/)"
+meta_description: "This Universal Sound Therapy Protocol was designed to assist your body heal Surgical Wounds."
 categories:
   - "Surgical Wounds"
   - "Electromagnetic Sensitivity"

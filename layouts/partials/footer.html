@@ -1,6 +1,6 @@
 <div class="cta-banner">
   <div class="container cta-banner__inner">
-    <p class="cta-banner__text">Ready to start your healing journey? Call <strong>{{ .Site.Params.phone }}</strong> or email <strong>{{ .Site.Params.email }}</strong></p>
+    <p class="cta-banner__text">Ready to start your healing journey? Call <strong>{{ .Site.Params.phone }}</strong> or email <strong>{{ replace .Site.Params.email "@" "<wbr>@" | safeHTML }}</strong></p>
     <a href="/products/" class="btn btn--navy">Browse all protocols</a>
   </div>
 </div>
