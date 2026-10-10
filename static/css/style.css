@@ -889,6 +889,15 @@ h2 { font-size: 18px; }
 @media (max-width: 480px) {
   .top-bar { display: none; }
 
+  /* The logo already carries the name, so drop the text to fit the hamburger */
+  .brand-text { display: none; }
+  .main-header__inner { gap: 16px; }
+  .hamburger {
+    min-width: 44px;
+    min-height: 44px;
+    align-items: center;
+  }
+
   h1 { font-size: 22px; }
 
   .hero { padding: 32px 0; }
