@@ -753,7 +753,7 @@ h2 { font-size: 18px; }
 .prose p { margin-bottom: 1em; }
 .prose ul, .prose ol { padding-left: 24px; margin-bottom: 1em; }
 .prose li { margin-bottom: 4px; }
-.prose a { color: var(--teal-medium); }
+.prose a { color: var(--teal-medium); overflow-wrap: anywhere; }
 .prose a:hover { text-decoration: underline; }
 .prose strong { color: var(--heading); }
 .prose blockquote {
